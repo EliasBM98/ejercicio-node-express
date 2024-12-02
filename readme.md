@@ -1,6 +1,6 @@
-# Mi App Web
+# Express + EJS + MONGO 
 
-Esta es una aplicación web que hace X cosa.
+Esta aplicación web nos permite obtener servicios y productos almacenados en la BBDD de MongoDB.
 
 ## Instalación
 

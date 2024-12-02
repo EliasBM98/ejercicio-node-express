@@ -1,7 +1,7 @@
 /*conexion a base de datos de mongo*/
 const mongoose = require('mongoose');
 
-//Fucion par hacer la conexion a Mongo Atlas
+//Funcion para hacer la conexion a Mongo
 const dbConnect= async()=>{
     try{
     const connection = await mongoose.connect(process.env.URI_CONNECT);
